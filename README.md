@@ -2,7 +2,7 @@
 
 ## Authors
 
-- [@kevoslp](https://www.github.com/kevoslp)
+- [@kevint4890](https://www.github.com/kevint4890)
 
 ## Data source
 
